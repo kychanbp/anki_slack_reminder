@@ -1,7 +1,3 @@
-Below is a comprehensive `README.md` file you can use for your project. It includes instructions, prerequisites, setup steps, testing methods, and notes on licensing (MIT), without including any sensitive personal information or paths. Adjust directory paths, environment names, and other placeholders to fit your actual setup.
-
----
-
 # Slack Anki Reminder Bot
 
 ## Overview
